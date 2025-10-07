@@ -12,3 +12,11 @@
     // Se non è multiplo di NESSUNO dei tre, stampiamo semplicemente il numero.
     // L'else è tipo il "se non hai trovato nulla di speciale, fai la cosa normale".
  // Finito il giro fino al 100.
+
+ for (let i = 1; i <= 100; i++) {
+    console.log(i)
+    if (i % 3 == 0) {
+        console.log(Fizz)
+    }
+    else if (i % 5 == 0)
+ }
