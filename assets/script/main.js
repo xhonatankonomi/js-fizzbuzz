@@ -26,6 +26,3 @@
     else {
         console.log(i)
     }
- }
-
- ciao
